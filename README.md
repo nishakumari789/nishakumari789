@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **AI VOICE ASSISGENT**
 
-- 🌱 I’m currently learning **Node JS,PYTHON,Pandas,Numpy,JavaSCRIPT,SQL,POWER BI,MATPLOTLIB**
+- 🌱 I’m currently learning **Node JS,JavaSCRIPT,MATPLOTLIB**
 
 - 📫 How to reach me **nishayadavpms@gmail.com**
 
